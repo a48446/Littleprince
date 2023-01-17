@@ -102,7 +102,7 @@ def handle_postback(event):
         text_message = TextSendMessage(text=Story[f"contents_{story_number}"])
 
         # https: // c7b3-211-20-7-120.ngrok.io/static/voice_1.m4a
-        url_site = "https://f9df-211-20-7-115.jp.ngrok.io"
+        url_site = "https://0509-211-20-7-115.ngrok.io"
         voice_message = AudioSendMessage(
             original_content_url=f"{url_site}/static/voice_{story_number}.m4a",
             duration=int(voice_long*1000),

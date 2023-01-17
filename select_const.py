@@ -32,7 +32,7 @@ def get_user(methob, event):
         return story_number
 
     return {
-        "status": "succes"
+        "status": "success"
     }
 
 
@@ -196,7 +196,7 @@ def SecondResponse_1to5():
                         "type": "postback",
                         "label": "第一章",
                         "data": "第章1",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第一章"
                     }
                 },
                 {
@@ -207,7 +207,7 @@ def SecondResponse_1to5():
                         "type": "postback",
                         "label": "第二章",
                         "data": "第章2",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二章"
                     }
                 },
                 {
@@ -218,7 +218,7 @@ def SecondResponse_1to5():
                         "type": "postback",
                         "label": "第三章",
                         "data": "第章3",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第三章"
                     }
                 },
                 {
@@ -229,7 +229,7 @@ def SecondResponse_1to5():
                         "type": "postback",
                         "label": "第四章",
                         "data": "第章4",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第四章"
                     }
                 },
                 {
@@ -240,7 +240,7 @@ def SecondResponse_1to5():
                         "type": "postback",
                         "label": "第五章",
                         "data": "第章5",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第五章"
                     }
                 }
             ],
@@ -279,7 +279,7 @@ def SecondResponse_6to10():
                         "type": "postback",
                         "label": "第六章",
                         "data": "第章6",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第六章"
                     }
                 },
                 {
@@ -290,7 +290,7 @@ def SecondResponse_6to10():
                         "type": "postback",
                         "label": "第七章",
                         "data": "第章7",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第七章"
                     }
                 },
                 {
@@ -301,7 +301,7 @@ def SecondResponse_6to10():
                         "type": "postback",
                         "label": "第八章",
                         "data": "第章8",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第八章"
                     }
                 },
                 {
@@ -312,7 +312,7 @@ def SecondResponse_6to10():
                         "type": "postback",
                         "label": "第九章",
                         "data": "第章9",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第九章"
                     }
                 },
                 {
@@ -323,7 +323,7 @@ def SecondResponse_6to10():
                         "type": "postback",
                         "label": "第十章",
                         "data": "第章10",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十章"
                     }
                 }
             ],
@@ -362,7 +362,7 @@ def SecondResponse_11to15():
                         "type": "postback",
                         "label": "第十一章",
                         "data": "第章11",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十一章"
                     }
                 },
                 {
@@ -373,7 +373,7 @@ def SecondResponse_11to15():
                         "type": "postback",
                         "label": "第十二章",
                         "data": "第章12",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十二章"
                     }
                 },
                 {
@@ -384,7 +384,7 @@ def SecondResponse_11to15():
                         "type": "postback",
                         "label": "第十三章",
                         "data": "第章13",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十三章"
                     }
                 },
                 {
@@ -395,7 +395,7 @@ def SecondResponse_11to15():
                         "type": "postback",
                         "label": "第十四章",
                         "data": "第章14",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十四章"
                     }
                 },
                 {
@@ -406,7 +406,7 @@ def SecondResponse_11to15():
                         "type": "postback",
                         "label": "第十五章",
                         "data": "第章15",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十五章"
                     }
                 }
             ],
@@ -445,7 +445,7 @@ def SecondResponse_16to20():
                         "type": "postback",
                         "label": "第十六章",
                         "data": "第章16",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十六章"
                     }
                 },
                 {
@@ -456,7 +456,7 @@ def SecondResponse_16to20():
                         "type": "postback",
                         "label": "第十七章",
                         "data": "第章17",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十七章"
                     }
                 },
                 {
@@ -467,7 +467,7 @@ def SecondResponse_16to20():
                         "type": "postback",
                         "label": "第十八章",
                         "data": "第章18",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十八章"
                     }
                 },
                 {
@@ -478,7 +478,7 @@ def SecondResponse_16to20():
                         "type": "postback",
                         "label": "第十九章",
                         "data": "第章19",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第十九章"
                     }
                 },
                 {
@@ -489,7 +489,7 @@ def SecondResponse_16to20():
                         "type": "postback",
                         "label": "第二十章",
                         "data": "第章20",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十章"
                     }
                 }
             ],
@@ -528,7 +528,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十一章",
                         "data": "第章21",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十一章"
                     }
                 },
                 {
@@ -539,7 +539,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十二章",
                         "data": "第章22",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十二章"
                     }
                 },
                 {
@@ -550,7 +550,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十三章",
                         "data": "第章23",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十三章"
                     }
                 },
                 {
@@ -561,7 +561,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十四章",
                         "data": "第章24",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十四章"
                     }
                 },
                 {
@@ -572,7 +572,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十五章",
                         "data": "第章25",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十五章"
                     }
                 },
                 {
@@ -583,7 +583,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十六章",
                         "data": "第章26",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十六章"
                     }
                 },
                 {
@@ -594,7 +594,7 @@ def SecondResponse_21to27():
                         "type": "postback",
                         "label": "第二十七章",
                         "data": "第章27",
-                        "displayText": "好滴，馬上找妳看"
+                        "displayText": "第二十七章"
                     }
                 }
             ],
